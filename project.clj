@@ -1,4 +1,4 @@
-(defproject lein-filegen-ng :lein-v
+(defproject org.clojars.eehah5ru/lein-filegen-ng :lein-v
   :description "Leiningen plugin to generate files"
   :url "http://github.com/eehah5ru/lein-filegen-ng"
   :license {:name "Eclipse Public License"
